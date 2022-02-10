@@ -28,6 +28,7 @@ header h1{
 }
 
 section article {
+    width: 600px;
     transition: box-shadow 0.3s ease-in-out;
     background-color: #fff;
     margin: 1rem 0;
